@@ -1,0 +1,40 @@
+body{
+    font-family: 'Alkaya Teligivala' ,cursive;
+    background-color: white;
+}
+
+
+.header_div{
+ background-color: grey;
+color: white;
+}
+
+.header_div p{
+font-family:'roboto',sans-serif ;
+color: white;
+font-size: 12px;
+letter-spacing:1px;
+font-weight:bold;
+}
+
+.main_div button{
+    font-family:'roboto',sans-serif ;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing:3px;
+    font-weight:bolder;
+
+}
+
+
+.footer{
+position: fixed;
+color: grey;
+bottom: 0%;
+width: 100%; ;
+font-size: 18px;
+background-color: white;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px gray ;
+}
